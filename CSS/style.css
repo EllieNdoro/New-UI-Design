@@ -26,7 +26,7 @@ body {
 .con2 {
 	height: 450px;
 	display: flex;
-	background-color: pink;
+	
 }
 .con3 {
 	
@@ -64,6 +64,9 @@ body {
 		border: none;
 		background-color: fuchsia;
 		color: white;
+	}
+	.us{
+		background-color: orange;
 	}
 }
 
